@@ -1,0 +1,911 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* this is hero start */
+#hero #herotext{
+  width: 50%;
+}
+#hero #heroimg{
+  width: 50%;
+}
+/* this is hero end */
+/* this is image1 start */
+#image1 #image11{
+  width: 16.66666666666667%;
+}
+#image1 #image12{
+  width: 16.66666666666667%;
+}
+#image1 #image13{
+  width: 16.66666666666667%;
+}
+#image1 #image14{
+  width: 16.66666666666667%;
+}
+#image1 #image15{
+  width: 16.66666666666667%;
+}
+#image1 #image16{
+  width: 16.66666666666667%;
+}
+/* this is image1 end */
+/* this is image2 start */
+#image2 #image22{
+  width: 50%;
+}
+#image2 #image23{
+  width: 50%;
+}
+/* this is image2 end */
+/* this is image3 start */
+#image3 #image31{
+  width: 20%;
+}
+#image3 #image32{
+  width: 20%;
+}
+#image3 #image33{
+  width: 20%;
+}
+#image3 #image34{
+  width: 20%;
+}
+#image3 #image35{
+  width: 20%;
+}
+/* this is image3 end */
+/* this is image5 start */
+#image5 #image51{
+  width: 20%;
+}
+#image5 #image52{
+  width: 20%;
+}
+#image5 #image53{
+  width: 20%;;
+}
+#image5 #image54{
+  width: 20%;
+}
+#image5 #image55{
+  width: 20%;
+}
+/* this is image5 end */
+/* this is image6 start */
+#image6 #image61{
+  width: 50%;
+}
+#image6 #image62{
+  width: 50%;
+}
+/* this is image6 end */
+/* this is image7 start */
+#image7 #image71{
+  width: 20%;
+}
+#image7 #image72{
+  width: 20%;
+}
+#image7 #image73{
+  width: 20%;
+}
+#image7 #image74{
+  width: 20%;
+}
+#image7 #image75{
+  width: 20%;
+}
+/* this is image7 end */
+/* this is image8 start */
+#image8 #image81{
+  width: 100%;
+}
+/* this is image8 end */
+/* this is image9 start */
+#image9 #image91{
+  width: 25%;
+}
+#image9 #image92{
+  width: 25%;
+}
+#image9 #image93{
+  width: 25%;
+}
+#image9 #image94{
+  width: 25%;
+}
+/* this is image9 end */
+/* this is image10 start */
+#image10 #image101{
+  width: 33.3333333%;
+}
+#image10 #image102{
+  width: 33.3333333%;
+}
+#image10 #image103{
+  width: 33.3333333%;
+}
+/* this is image10 end */
+/* this is footer start */
+#footer #footer1{
+  width: 20%;
+}
+#footer #footer2{
+  width: 20%;
+}
+#footer #footer3{
+  width: 20%;
+}
+#footer #footer4{
+  width: 20%;
+}
+#footer #footer5{
+  width: 20%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* this is hero start */
+#hero #herotext{
+  width: 50%;
+}
+#hero #heroimg{
+  width: 50%;
+}
+/* this is hero end */
+/* this is image1 start */
+#image1 #image11{
+  width: 16.66666666666667%;
+}
+#image1 #image12{
+  width: 16.66666666666667%;
+}
+#image1 #image13{
+  width: 16.66666666666667%;
+}
+#image1 #image14{
+  width: 16.66666666666667%;
+}
+#image1 #image15{
+  width: 16.66666666666667%;
+}
+#image1 #image16{
+  width: 16.66666666666667%;
+}
+/* this is image1 end */
+/* this is image2 start */
+#image2 #image22{
+  width: 50%;
+}
+#image2 #image23{
+  width: 50%;
+}
+/* this is image2 end */
+/* this is image3 start */
+#image3 #image31{
+  width: 20%;
+}
+#image3 #image32{
+  width: 20%;
+}
+#image3 #image33{
+  width: 20%;
+}
+#image3 #image34{
+  width: 20%;
+}
+#image3 #image35{
+  width: 20%;
+}
+/* this is image3 end */
+/* this is image5 start */
+#image5 #image51{
+  width: 20%;
+}
+#image5 #image52{
+  width: 20%;
+}
+#image5 #image53{
+  width: 20%;;
+}
+#image5 #image54{
+  width: 20%;
+}
+#image5 #image55{
+  width: 20%;
+}
+/* this is image5 end */
+/* this is image6 start */
+#image6 #image61{
+  width: 50%;
+}
+#image6 #image62{
+  width: 50%;
+}
+/* this is image6 end */
+/* this is image7 start */
+#image7 #image71{
+  width: 20%;
+}
+#image7 #image72{
+  width: 20%;
+}
+#image7 #image73{
+  width: 20%;
+}
+#image7 #image74{
+  width: 20%;
+}
+#image7 #image75{
+  width: 20%;
+}
+/* this is image7 end */
+/* this is image8 start */
+#image8 #image81{
+  width: 100%;
+}
+/* this is image8 end */
+/* this is image9 start */
+#image9 #image91{
+  width: 25%;
+}
+#image9 #image92{
+  width: 25%;
+}
+#image9 #image93{
+  width: 25%;
+}
+#image9 #image94{
+  width: 25%;
+}
+/* this is image9 end */
+/* this is image10 start */
+#image10 #image101{
+  width: 33.3333333%;
+}
+#image10 #image102{
+  width: 33.3333333%;
+}
+#image10 #image103{
+  width: 33.3333333%;
+}
+/* this is image10 end */
+/* this is footer start */
+#footer #footer1{
+  width: 20%;
+}
+#footer #footer2{
+  width: 20%;
+}
+#footer #footer3{
+  width: 20%;
+}
+#footer #footer4{
+  width: 20%;
+}
+#footer #footer5{
+  width: 20%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* this is hero start */
+#hero #herotext{
+  width: 50%;
+}
+#hero #heroimg{
+  width: 50%;
+}
+/* this is hero end */
+/* this is image1 start */
+#image1 #image11{
+  width: 16.66666666666667%;
+}
+#image1 #image12{
+  width: 16.66666666666667%;
+}
+#image1 #image13{
+  width: 16.66666666666667%;
+}
+#image1 #image14{
+  width: 16.66666666666667%;
+}
+#image1 #image15{
+  width: 16.66666666666667%;
+}
+#image1 #image16{
+  width: 16.66666666666667%;
+}
+/* this is image1 end */
+/* this is image2 start */
+#image2 #image22{
+  width: 50%;
+}
+#image2 #image23{
+  width: 50%;
+}
+/* this is image2 end */
+/* this is image3 start */
+#image3 #image31{
+  width: 20%;
+}
+#image3 #image32{
+  width: 20%;
+}
+#image3 #image33{
+  width: 20%;
+}
+#image3 #image34{
+  width: 20%;
+}
+#image3 #image35{
+  width: 20%;
+}
+/* this is image3 end */
+/* this is image5 start */
+#image5 #image51{
+  width: 20%;
+}
+#image5 #image52{
+  width: 20%;
+}
+#image5 #image53{
+  width: 20%;;
+}
+#image5 #image54{
+  width: 20%;
+}
+#image5 #image55{
+  width: 20%;
+}
+/* this is image5 end */
+/* this is image6 start */
+#image6 #image61{
+  width: 50%;
+}
+#image6 #image62{
+  width: 50%;
+}
+/* this is image6 end */
+/* this is image7 start */
+#image7 #image71{
+  width: 20%;
+}
+#image7 #image72{
+  width: 20%;
+}
+#image7 #image73{
+  width: 20%;
+}
+#image7 #image74{
+  width: 20%;
+}
+#image7 #image75{
+  width: 20%;
+}
+/* this is image7 end */
+/* this is image8 start */
+#image8 #image81{
+  width: 100%;
+}
+/* this is image8 end */
+/* this is image9 start */
+#image9 #image91{
+  width: 25%;
+}
+#image9 #image92{
+  width: 25%;
+}
+#image9 #image93{
+  width: 25%;
+}
+#image9 #image94{
+  width: 25%;
+}
+/* this is image9 end */
+/* this is image10 start */
+#image10 #image101{
+  width: 33.3333333%;
+}
+#image10 #image102{
+  width: 33.3333333%;
+}
+#image10 #image103{
+  width: 33.3333333%;
+}
+/* this is image10 end */
+/* this is footer start */
+#footer #footer1{
+  width: 20%;
+}
+#footer #footer2{
+  width: 20%;
+}
+#footer #footer3{
+  width: 20%;
+}
+#footer #footer4{
+  width: 20%;
+}
+#footer #footer5{
+  width: 20%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* this is hero start */
+#hero #herotext{
+  width: 50%;
+}
+#hero #heroimg{
+  width: 50%;
+}
+/* this is hero end */
+/* this is image1 start */
+#image1 #image11{
+  width: 16.66666666666667%;
+}
+#image1 #image12{
+  width: 16.66666666666667%;
+}
+#image1 #image13{
+  width: 16.66666666666667%;
+}
+#image1 #image14{
+  width: 16.66666666666667%;
+}
+#image1 #image15{
+  width: 16.66666666666667%;
+}
+#image1 #image16{
+  width: 16.66666666666667%;
+}
+/* this is image1 end */
+/* this is image2 start */
+#image2 #image22{
+  width: 50%;
+}
+#image2 #image23{
+  width: 50%;
+}
+/* this is image2 end */
+/* this is image3 start */
+#image3 #image31{
+  width: 20%;
+}
+#image3 #image32{
+  width: 20%;
+}
+#image3 #image33{
+  width: 20%;
+}
+#image3 #image34{
+  width: 20%;
+}
+#image3 #image35{
+  width: 20%;
+}
+/* this is image3 end */
+/* this is image5 start */
+#image5 #image51{
+  width: 20%;
+}
+#image5 #image52{
+  width: 20%;
+}
+#image5 #image53{
+  width: 20%;;
+}
+#image5 #image54{
+  width: 20%;
+}
+#image5 #image55{
+  width: 20%;
+}
+/* this is image5 end */
+/* this is image6 start */
+#image6 #image61{
+  width: 50%;
+}
+#image6 #image62{
+  width: 50%;
+}
+/* this is image6 end */
+/* this is image7 start */
+#image7 #image71{
+  width: 20%;
+}
+#image7 #image72{
+  width: 20%;
+}
+#image7 #image73{
+  width: 20%;
+}
+#image7 #image74{
+  width: 20%;
+}
+#image7 #image75{
+  width: 20%;
+}
+/* this is image7 end */
+/* this is image8 start */
+#image8 #image81{
+  width: 100%;
+}
+/* this is image8 end */
+/* this is image9 start */
+#image9 #image91{
+  width: 25%;
+}
+#image9 #image92{
+  width: 25%;
+}
+#image9 #image93{
+  width: 25%;
+}
+#image9 #image94{
+  width: 25%;
+}
+/* this is image9 end */
+/* this is image10 start */
+#image10 #image101{
+  width: 33.3333333%;
+}
+#image10 #image102{
+  width: 33.3333333%;
+}
+#image10 #image103{
+  width: 33.3333333%;
+}
+/* this is image10 end */
+/* this is footer start */
+#footer #footer1{
+  width: 20%;
+}
+#footer #footer2{
+  width: 20%;
+}
+#footer #footer3{
+  width: 20%;
+}
+#footer #footer4{
+  width: 20%;
+}
+#footer #footer5{
+  width: 20%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* this is hero start */
+#hero #herotext{
+  width: 100%;
+}
+#hero #heroimg{
+  width: 100%;
+}
+/* this is hero end */
+/* this is image1 start */
+#image1 #image11{
+  width: 50%;
+}
+#image1 #image12{
+  width: 50%;
+}
+#image1 #image13{
+  width: 50%;
+}
+#image1 #image14{
+  width: 50%;
+}
+#image1 #image15{
+  width: 50%;
+}
+#image1 #image16{
+  width: 50%;
+}
+/* this is image1 end */
+/* this is image2 start */
+#image2 #image22{
+  width: 100%;
+}
+#image2 #image23{
+  width: 100%;
+}
+/* this is image2 end */
+/* this is image3 start */
+#image3 #image31{
+  width: 100%;
+}
+#image3 #image32{
+  width: 100%;
+}
+#image3 #image33{
+  width: 100%;
+}
+#image3 #image34{
+  width: 100%;
+}
+#image3 #image35{
+  width: 100%;
+}
+/* this is image3 end */
+/* this is image5 start */
+#image5 #image51{
+  width: 100%;
+}
+#image5 #image52{
+  width: 100%;
+}
+#image5 #image53{
+  width: 100%;;
+}
+#image5 #image54{
+  width: 100%;
+}
+#image5 #image55{
+  width: 100%;
+}
+/* this is image5 end */
+/* this is image6 start */
+#image6 #image61{
+  width: 100%;
+}
+#image6 #image62{
+  width: 100%;
+}
+/* this is image6 end */
+/* this is image7 start */
+#image7 #image71{
+  width: 100%;
+}
+#image7 #image72{
+  width: 100%;
+}
+#image7 #image73{
+  width: 100%;
+}
+#image7 #image74{
+  width: 100%;
+}
+#image7 #image75{
+  width: 100%;
+}
+/* this is image7 end */
+/* this is image8 start */
+#image8 #image81{
+  width: 100%;
+}
+/* this is image8 end */
+/* this is image9 start */
+#image9 #image91{
+  width: 100%;
+}
+#image9 #image92{
+  width: 100%;
+}
+#image9 #image93{
+  width: 100%;
+}
+#image9 #image94{
+  width: 100%;
+}
+/* this is image9 end */
+/* this is image10 start */
+#image10 #image101{
+  width: 100%;
+}
+#image10 #image102{
+  width: 100%;
+}
+#image10 #image103{
+  width: 100%;
+}
+/* this is image10 end */
+/* this is footer start */
+#footer #footer1{
+  width: 100%;
+}
+#footer #footer2{
+  width: 100%;
+}
+#footer #footer3{
+  width: 100%;
+}
+#footer #footer4{
+  width: 100%;
+}
+#footer #footer5{
+  width: 100%;
+}
+/* this is footer end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* this is hero start */
+#hero #herotext{
+  width: 100%;
+}
+#hero #heroimg{
+  width: 100%;
+}
+/* this is hero end */
+/* this is image1 start */
+#image1 #image11{
+  width: 50%;
+}
+#image1 #image12{
+  width: 50%;
+}
+#image1 #image13{
+  width: 50%;
+}
+#image1 #image14{
+  width: 50%;
+}
+#image1 #image15{
+  width: 50%;
+}
+#image1 #image16{
+  width: 50%;
+}
+/* this is image1 end */
+/* this is image2 start */
+#image2 #image22{
+  width: 100%;
+}
+#image2 #image23{
+  width: 100%;
+}
+/* this is image2 end */
+/* this is image3 start */
+#image3 #image31{
+  width: 100%;
+}
+#image3 #image32{
+  width: 100%;
+}
+#image3 #image33{
+  width: 100%;
+}
+#image3 #image34{
+  width: 100%;
+}
+#image3 #image35{
+  width: 100%;
+}
+/* this is image3 end */
+/* this is image5 start */
+#image5 #image51{
+  width: 100%;
+}
+#image5 #image52{
+  width: 100%;
+}
+#image5 #image53{
+  width: 100%;;
+}
+#image5 #image54{
+  width: 100%;
+}
+#image5 #image55{
+  width: 100%;
+}
+/* this is image5 end */
+/* this is image6 start */
+#image6 #image61{
+  width: 100%;
+}
+#image6 #image62{
+  width: 100%;
+}
+/* this is image6 end */
+/* this is image7 start */
+#image7 #image71{
+  width: 100%;
+}
+#image7 #image72{
+  width: 100%;
+}
+#image7 #image73{
+  width: 100%;
+}
+#image7 #image74{
+  width: 100%;
+}
+#image7 #image75{
+  width: 100%;
+}
+/* this is image7 end */
+/* this is image8 start */
+#image8 #image81{
+  width: 100%;
+}
+/* this is image8 end */
+/* this is image9 start */
+#image9 #image91{
+  width: 100%;
+}
+#image9 #image92{
+  width: 100%;
+}
+#image9 #image93{
+  width: 100%;
+}
+#image9 #image94{
+  width: 100%;
+}
+/* this is image9 end */
+/* this is image10 start */
+#image10 #image101{
+  width: 100%;
+}
+#image10 #image102{
+  width: 100%;
+}
+#image10 #image103{
+  width: 100%;
+}
+/* this is image10 end */
+/* this is footer start */
+#footer #footer1{
+  width: 100%;
+}
+#footer #footer2{
+  width: 100%;
+}
+#footer #footer3{
+  width: 100%;
+}
+#footer #footer4{
+  width: 100%;
+}
+#footer #footer5{
+  width: 100%;
+}
+/* this is footer end */
+    
+  }

@@ -1,0 +1,491 @@
+/* this is hero start */
+#hero{
+    width: 100%;
+    float: left;
+    background-color: #cde4ed;
+}
+#hero #herotext{
+    width: 50%;
+    float: left;
+}
+#hero #heroimg{
+    width: 50%;
+    float: left;
+}
+.herotext{
+    font-size: 70px;
+    color: black;
+    font-weight: 800;
+    text-align: center;
+}
+.price{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    margin-top: 200px;
+    font-weight: 600;
+}
+/* this is hero end */
+
+/* this is image1 start */
+#image1{
+    width: 100%;
+    float: left;
+}
+#image1 #image11{
+    width: 16.66666666666667%;
+    float: left;
+    margin-top: 30px;
+}
+#image1 #image12{
+    width: 16.66666666666667%;
+    float: left;
+    margin-top: 30px;
+}
+#image1 #image13{
+    width: 16.66666666666667%;
+    float: left;
+    margin-top: 30px;
+}
+#image1 #image14{
+    width: 16.66666666666667%;
+    float: left;
+    margin-top: 30px;
+}
+#image1 #image15{
+    width: 16.66666666666667%;
+    float: left;
+    margin-top: 30px;
+}
+#image1 #image16{
+    width: 16.66666666666667%;
+    float: left;
+    margin-top: 30px;
+}
+.image1text{
+    font-size: 22px;
+    text-align: center;
+    color: gray;
+    margin-top: 10px;
+}
+/* this is image1 end */
+
+/* this is image2 start */
+#image2{
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+}
+#image2 #image22{
+    width: 50%;
+    float: left;
+}
+#image2 #image23{
+    width: 50%;
+    float: left;
+}
+.image2text{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.image22text{
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+}
+/* this is image2 end */
+
+/* this is image3 start */
+#image3{
+    width: 100%;
+    float: left;
+}
+#image3 #image31{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image3 #image32{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image3 #image33{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image3 #image34{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image3 #image35{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.image31text{
+    font-size: 23px;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    margin-top: 10px;
+}
+.image3text{
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+}
+#image3tex{
+    width: 100%;
+}
+.image3tex{
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+/* this is image3 end */
+
+/* this is image5 start */
+#image5{
+    width: 100%;
+    margin-top: 50px;
+    float: left;
+    margin-bottom: 50px;
+}
+#image5 #image51{
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+#image5 #image52{
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+#image5 #image53{
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+#image5 #image54{
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+#image5 #image55{
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+/* this is image5 end */
+/* this is image6 start */
+#image6{
+    width: 100%;
+    float: left;
+    margin-bottom: 70px;
+}
+#image6 #image61{
+    width: 50%;
+    float: left;
+    margin-top: 15px;
+}
+#image6 #image62{
+    width: 50%;
+    float: left;
+    margin-top: 15px;
+}
+.image6text{
+    font-size: 20px;
+    color: black;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.image6{
+    font-size: 60px;
+    font-weight: 700;
+    color: black;
+    margin-left: 10px;
+}
+.image6button{
+    width: 200px;
+    height: 50px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+}
+.image6button:hover{
+    border: 2px solid black;
+    background-color: #cde4ed;
+    color: black;
+}
+/* this is image6 end */
+/* this is image7 start */
+#image7{
+    width: 100%;
+    float: left;
+    margin-bottom: 70px;
+}
+#image7 #image71{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image7 #image72{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image7 #image73{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image7 #image74{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image7 #image75{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+/* this is image7 end */
+/* this is image8 start */
+#image8{
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+}
+#image8 #image81{
+    width: 100%;
+    float: left;
+}
+.image8text{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.img8text{
+    font-size: 60px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+/* this is image8 end */
+/* this is image9 start */
+#image9{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+#image9 #image91{
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image9 #image92{
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image9 #image93{
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#image9 #image94{
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.image9text{
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.image9text1{
+    font-size: 18px;
+    color: gray;
+}
+/* this is image9 end */
+/* this is image10 start */
+#image10{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    background-color: #ecf4fa;
+    border-bottom: 2px solid gray;
+}
+#image10 #image101{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+}
+#image10 #image102{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+}
+#image10 #image103{
+    width: 33.3333333%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+}
+.image10{
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+.image101{
+    font-size: 17px;
+    color: black;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+/* this is image10 end */
+/* this is footer start */
+#footer{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    background-color: #ecf4fa;
+    border-bottom: 2px solid gray;
+}
+#footer #footer1{
+    width: 20%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#footer #footer2{
+    width: 20%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#footer #footer3{
+    width: 20%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#footer #footer4{
+    width: 20%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#footer #footer5{
+    width: 20%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.footertext{
+    font-size: 20px;
+    color: black;
+    font-weight: 700;
+}
+.footertext1{
+    font-size: 17px;
+    color: gray;
+    font-weight: 600;
+}
+.footertext1:hover{
+    color: black;
+}
+.footertext11{
+    font-size: 17px;
+    color: gray;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.fa-facebook-f{
+    font-size: 21px;
+    margin-top: 15px;
+}
+.fa-dribbble{
+    font-size: 21px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.fa-twitter{
+    font-size: 21px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.fa-instagram{
+    font-size: 21px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.input{
+    background-color: #ecf4fa;
+    border-style: none;
+    border-bottom: 3px solid black;
+    font-size: 17px;
+    height: 40px;
+}
+#copy{
+    background-color: #ecf4fa;
+    width: 100%;
+}
+.copy{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+}
+/* this is footer end */
